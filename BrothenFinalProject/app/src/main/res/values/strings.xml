@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Brothen Final Project</string>
+    <string name="action_popup">Pop Up</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="list_activity">The List</string>
+    <string name="second_activity_welcome">"Welcome to the second activity"</string>
+    <string name="ok_button">Ok</string>
+    <string name="back_button">Back</string>
+    <string name="toastButton">Toast</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="aGrade">Give me an A :)</string>
+</resources>

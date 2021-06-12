@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BasicLayouts</string>
+    <string name="open">Open</string>
+    <string name="save_btn">Save</string>
+    <string name="auto_save">Autosave</string>
+    <string name="option1">Option 1</string>
+    <string name="option2">Option 2</string>
+    <string name="message">This is an edit text</string>
+    <string name="btn_text1">Button 1</string>
+    <string name="btn_text2">Button 2</string>
+    <string name="text_view">Text View</string>
+    <string name="day_message">Day</string>
+
+</resources>

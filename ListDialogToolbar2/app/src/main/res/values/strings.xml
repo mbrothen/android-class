@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">List Dialog Toolbar</string>
+    <string name="toast_menu">Toast</string>
+    <string name="dialog_menu">Dialog</string>
+    <string name="finish_menu">End App</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="dialog_superGoodJob">Super Good Job</string>
+    <string name="dialog_iKnow">I know right?</string>
+    <string name="dialog_seriously">Seriously</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name="skills_array">
+        <item>ASP.NET</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>PHP</item>
+        <item>JavaScript</item>
+        <item>Node</item>
+        <item>React</item>
+        <item>Node</item>
+        <item>SQL</item>
+        <item>MongoDB</item>
+        <item>HTML</item>
+        <item>CSS</item>
+    </string-array>
+</resources>

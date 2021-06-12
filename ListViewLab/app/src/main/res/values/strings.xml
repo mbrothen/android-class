@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ListViewLab</string>
+    <string-array name="schools_array">
+        <item>Wisconsin</item>
+        <item>Purdue</item>
+        <item>Illinois</item>
+        <item>Michigan</item>
+        <item>Minnesota</item>
+        <item>Nebraska</item>
+        <item>Iowa</item>
+        <item>Penn State</item>
+        <item>Northwestern</item>
+        <item>Ohio State</item>
+        <item>Michigan State</item>
+        <item>Indiana</item>
+        <item>Rutgers</item>
+        <item>Maryland</item>
+    </string-array>
+
+</resources>

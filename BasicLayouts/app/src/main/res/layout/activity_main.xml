@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!" />
+    <Button android:id="@+id/btnSave"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/save_btn" />
+
+    <Button android:id="@+id/btnOpen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/open" />
+
+    <ImageButton
+        android:id="@+id/btnImg1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/coin_apple_s1_1" />
+
+    <EditText android:id="@+id/txtName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <CheckBox android:id="@+id/chkAutosave"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/auto_save" />
+
+    <CheckBox android:id="@+id/star"
+        style="?android:attr/starStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <RadioGroup android:id="@+id/rdbGp1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+        <RadioButton android:id="@+id/rdb1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/option1" />
+        <RadioButton android:id="@+id/rdb2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/option2" />
+    </RadioGroup>
+
+    <ToggleButton android:id="@+id/toggle1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

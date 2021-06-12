@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultipleActivitiesLab</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="second_activity_welcome">"Welcome to the second activity"</string>
+    <string name="ok_button">OK</string>
+    <string name="name_prompt">Please enter your name</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="button">Gateway</string>
+    <string name="contacts">Contacts</string>
+    <string name="textView"> Selected Contact</string>
+
+</resources>

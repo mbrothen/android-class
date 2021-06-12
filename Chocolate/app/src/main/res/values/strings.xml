@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chocolate</string>
+    <string name="find_choc">Find Chocolate</string>
+    <string name="types_choc">No Chocolate Selected</string>
+    <string-array name="chocolates">
+        <item>milk</item>
+        <item>ruby</item>
+        <item>white</item>
+        <item>dark</item>
+    </string-array>
+
+</resources>
